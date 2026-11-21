@@ -1,6 +1,6 @@
 # 冒險者道具袋：支援網站（GitHub Pages）
 
-要放到公開的 GitHub repo `adventurer-bag-site`，開啟 GitHub Pages（main 分支、根目錄）。
+公開 repo `adventurer-bag-site`，GitHub Pages 用 main 分支根目錄。改完在這個資料夾 commit、push 就會更新網站。
 
 - 支援 URL：https://hsiehcaleb00114-wq.github.io/adventurer-bag-site/
 - 隱私權政策：https://hsiehcaleb00114-wq.github.io/adventurer-bag-site/privacy.html
